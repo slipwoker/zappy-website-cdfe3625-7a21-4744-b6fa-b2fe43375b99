@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-cdfe3625.zappy5.app
+https://example.com
 גלו את הטעם המושלם של חלות השבת שלנו באתר שישי ברקס. חלות טריות, רכות ומנחמות ישירות אליכם. הזמינו עוד היום והפכו את שולחן השבת לחגיגה אמיתית!
 
 ### אודות
-https://-cdfe3625.zappy5.app/about
+https://example.com/about
 הכירו את התשוקה שמאחורי שישי ברקס – חנות אונליין לחלות שבת מושחתות. למדו על המסורת, האיכות והאהבה שנכנסים לכל חלה, והצטרפו למשפחת אוהבי החלות שלנו!
 
 ### גלריה
-https://-cdfe3625.zappy5.app/gallery
+https://example.com/gallery
 צפו בגלריית התמונות המהממת של שישי ברקס: חלות שבת זהובות, רכות ומעוצבות שמחכות לכם. קבלו השראה לקראת השבת והזמינו את החלה המושלמת שלכם בלחיצה אחת!
 
 ### צור קשר
-https://-cdfe3625.zappy5.app/contact
+https://example.com/contact
 יש שאלה על הזמנת חלות השבת? רוצים להתייעץ? צרו קשר עם צוות שישי ברקס עוד היום. אנחנו כאן כדי להבטיח שהשבת שלכם תתחיל בטעם מושלם – כתבו לנו עכשיו!
 
 ### Products
-https://-cdfe3625.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - שישי ברקס
 
 ### Cart
-https://-cdfe3625.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-cdfe3625.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-cdfe3625.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-cdfe3625.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-cdfe3625.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-cdfe3625.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - שישי ברקס
 
 ### Category
-https://-cdfe3625.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - שישי ברקס
 
 ### תודה שפניתם אלינו
-https://-cdfe3625.zappy5.app/thank-you
+https://example.com/thank-you
 שישי ברקס - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-cdfe3625.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-cdfe3625.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-cdfe3625.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-cdfe3625.zappy5.app/sitemap.xml
-- Robots: https://-cdfe3625.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-cdfe3625.zappy5.app/llms-full.txt
-- Products (JSON): https://-cdfe3625.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-cdfe3625.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

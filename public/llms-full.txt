@@ -2,13 +2,13 @@
 
 An online store specializing in selling Shabbat challah bread (Shishi Breks), a popular Israeli bakery product traditionally associated with Friday/Shabbat preparations. The business focuses on e-commerce sales of this beloved baked good.
 
-Source: https://-cdfe3625.zappy5.app
+Source: https://example.com
 
 ---
 
 ## הזמינו עכשיו חלות טריות הביתה — שישי ברקס
 
-URL: https://-cdfe3625.zappy5.app
+URL: https://example.com
 Description: גלו את הטעם המושלם של חלות השבת שלנו באתר שישי ברקס. חלות טריות, רכות ומנחמות ישירות אליכם. הזמינו עוד היום והפכו את שולחן השבת לחגיגה אמיתית!
 
 הזמינו עכשיו חלות טריות הביתה — שישי ברקס
@@ -514,7 +514,7 @@ Description: גלו את הטעם המושלם של חלות השבת שלנו �
 
 ## הסיפור המתוק מאחורי החלות — שישי ברקס
 
-URL: https://-cdfe3625.zappy5.app/about
+URL: https://example.com/about
 Description: הכירו את התשוקה שמאחורי שישי ברקס – חנות אונליין לחלות שבת מושחתות. למדו על המסורת, האיכות והאהבה שנכנסים לכל חלה, והצטרפו למשפחת אוהבי החלות שלנו!
 
 הסיפור המתוק מאחורי החלות — שישי ברקס
@@ -865,7 +865,7 @@ Description: הכירו את התשוקה שמאחורי שישי ברקס – �
 
 ## חלות שבת מעוררות תיאבון בגלריה — שישי ברקס
 
-URL: https://-cdfe3625.zappy5.app/gallery
+URL: https://example.com/gallery
 Description: צפו בגלריית התמונות המהממת של שישי ברקס: חלות שבת זהובות, רכות ומעוצבות שמחכות לכם. קבלו השראה לקראת השבת והזמינו את החלה המושלמת שלכם בלחיצה אחת!
 
 חלות שבת מעוררות תיאבון בגלריה — שישי ברקס
@@ -1204,7 +1204,7 @@ Description: צפו בגלריית התמונות המהממת של שישי ב�
 
 ## דברו איתנו – אנחנו זמינים בשבילכם — שישי ברקס
 
-URL: https://-cdfe3625.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש שאלה על הזמנת חלות השבת? רוצים להתייעץ? צרו קשר עם צוות שישי ברקס עוד היום. אנחנו כאן כדי להבטיח שהשבת שלכם תתחיל בטעם מושלם – כתבו לנו עכשיו!
 
 דברו איתנו – אנחנו זמינים בשבילכם — שישי ברקס
@@ -1560,7 +1560,7 @@ Description: יש שאלה על הזמנת חלות השבת? רוצים להת�
 
 ## מוצרים
 
-URL: https://-cdfe3625.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - שישי ברקס
 
 מוצרים - שישי ברקס
@@ -1822,7 +1822,7 @@ Description: המוצרים שלנו - שישי ברקס
 
 ## עגלת קניות
 
-URL: https://-cdfe3625.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - שישי ברקס
@@ -2060,7 +2060,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://-cdfe3625.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - שישי ברקס
@@ -2484,7 +2484,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://-cdfe3625.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - שישי ברקס
@@ -2729,7 +2729,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://-cdfe3625.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - שישי ברקס
@@ -3129,7 +3129,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://-cdfe3625.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - שישי ברקס
@@ -3391,7 +3391,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://-cdfe3625.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - שישי ברקס
@@ -3682,7 +3682,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 ## פרטי המוצר
 
-URL: https://-cdfe3625.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - שישי ברקס
 
 פרטי המוצר - שישי ברקס
@@ -3922,7 +3922,7 @@ Description: פרטי המוצר - שישי ברקס
 
 ## מוצרים
 
-URL: https://-cdfe3625.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - שישי ברקס
 
 מוצרים - שישי ברקס
@@ -4186,7 +4186,7 @@ Description: מוצרים - שישי ברקס
 
 ## מדיניות פרטיות
 
-URL: https://-cdfe3625.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4470,7 +4470,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-cdfe3625.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -4763,7 +4763,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-cdfe3625.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5075,7 +5075,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה שפניתם אלינו
 
-URL: https://-cdfe3625.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: שישי ברקס - תודה שפניתם אלינו
 
 תודה שפניתם אלינו
